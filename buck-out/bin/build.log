@@ -1,0 +1,6 @@
+2013-07-10T23:10:02.234	INFO	Build started
+2013-07-10T23:10:04.616	INFO	BuildRuleStarted(//jni:jni)
+2013-07-10T23:10:04.719	INFO	BuildRuleFinished(//jni:jni): FAIL MISS
+2013-07-10T23:10:04.720	INFO	BuildRuleFinished(//:testapp_lib): FAIL MISS
+2013-07-10T23:10:04.720	INFO	BuildRuleFinished(//:testapp): FAIL MISS
+2013-07-10T23:10:04.722	INFO	Build finished

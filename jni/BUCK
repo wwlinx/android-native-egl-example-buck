@@ -1,0 +1,6 @@
+ndk_library(
+  name = 'jni',
+  deps = [],
+  flags = [],
+  visibility = [ 'PUBLIC' ],
+)
